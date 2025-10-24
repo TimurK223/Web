@@ -22,32 +22,70 @@ blockquote{
     padding: 24px 20px
 
 }
+
+.header__logo{
+
+}
+
+.header__logo-image{
+
+
+}
+
+.header__menu{
+
+}
+
+.header__menu-list{
+
+}
+
+.header__menu-item{
+
+}
+
+.header__menu-item_active{
+
+}
+
+.header__menu-link{
+
+}
+
 .content-section{
     box-sizing: border-box;
     width: 360px;
     min-height: 100px;
     margin: auto;
 }
+
 .content-section_theme_dark{
     color: #fff;
     background-color: #131313;
 }
+
 .content-section_theme_bright{
     color: #000;
     background-color: #fee42a;
 }
+
 .cover{
     padding: 7px 24px 32px 20px;
 }
+
 .intro{
-    padding: 0 20px 30px
+    padding: 0 20px 30px;
 }
+
 .reasons{
-    padding: 40px 20px
+    padding: 40px 20px;
+    
 }
+
 .how-to{
     padding: 40px 20px 60px;
 }
+
 .footer{
     padding: 20px;
 }
