@@ -87,7 +87,11 @@ blockquote{
 
 .cover{
     padding: 7px 24px 32px 20px;
-}
+    background-image: url(../images/cover.svg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 95% auto;
+}   
 
 .intro{
     padding: 0 20px 30px;
