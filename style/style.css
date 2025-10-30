@@ -93,6 +93,26 @@ blockquote{
     background-size: 95% auto;
 }   
 
+.cover__title{
+    width: 100%;
+    color: #fff;
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-size:72px;
+    line-height: 1;
+}
+
+.accent-span{
+    display: block;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
 .intro{
     padding: 0 20px 30px;
 }
