@@ -187,3 +187,14 @@ blockquote{
 .how-to_help :nth-child(5) {
     grid-column: 5 /  5;
 }
+
+.image-pol {
+    height: 10px;
+    width: 20px;
+    
+}
+
+.how-to-img{
+    width: 10px; 
+    height: auto; 
+}
