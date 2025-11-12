@@ -6,3 +6,23 @@
 .header{
     background-image: url("../images/background.jpg");
 }
+
+.header__title{
+    position: relative;
+    display: inline-block;
+    padding: 20px;
+}
+
+.header__title::before{
+    content: "a";
+    color: transparent;
+    box-sizing: border-box;
+    display: block;
+    background-color: blueviolet;
+    position: absolute;
+    min-width: 100%;
+    opacity: 0.5;
+    border: 5px solid black ;
+    border-radius: 5%;    
+    left: 10px;
+}
