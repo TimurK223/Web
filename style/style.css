@@ -26,3 +26,7 @@
     border-radius: 5%;    
     left: 10px;
 }
+
+.rules {
+    background-image: url("../images/background.jpg");
+}
