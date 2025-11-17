@@ -30,3 +30,17 @@
 .rules {
     background-image: url("../images/background.jpg");
 }
+
+.rules__list {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5vw;
+}
+
+.rules__list-item {
+    
+}
+
+.rules__text {
+    padding-left: 1vw;
+}
