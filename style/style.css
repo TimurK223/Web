@@ -3,13 +3,16 @@
     padding: 0;
 }
 
+body{
+    padding: 10px;
+}
 .header{
     background-image: url("../images/background.jpg");
 }
 
 .header__title{
     position: relative;
-    display: inline-block;
+    text-align: center;
     padding: 20px;
 }
 
@@ -20,11 +23,12 @@
     display: block;
     background-color: blueviolet;
     position: absolute;
-    min-width: 100%;
+   
+    width: 95%;
     opacity: 0.5;
     border: 5px solid black ;
     border-radius: 5%;    
-    left: 10px;
+   
 }
 
 .rules {
@@ -38,9 +42,14 @@
 }
 
 .rules__list-item {
-    
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
 }
 
 .rules__text {
+    display: inline-block;
+    max-width: max-content;
     padding-left: 1vw;
+    outline: 2px solid black;
 }
