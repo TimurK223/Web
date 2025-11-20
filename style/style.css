@@ -57,6 +57,10 @@ body{
 .rules__text {
     display: inline-block;
     max-width: max-content;
-    padding-left: 1vw;
+    margin-left: 1vw;
     outline: 2px solid black;
+}
+
+.rules__list-point {
+
 }
