@@ -8,7 +8,7 @@ body{
 }
 .header{
     display: flex;
-    background-image: url("../images/background.jpg");
+    background-color: aqua;
 }
 
 .header__title{
