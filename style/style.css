@@ -44,7 +44,7 @@ body{
 
 .rules {
     padding: 5px;
-    background-image: url("../images/background.jpg");
+    background-color: aqua;
 }
 
 .rules__list {
