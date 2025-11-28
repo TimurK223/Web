@@ -67,5 +67,5 @@ body{
 }
 
 .rules__list-point {
-
+    transform: scale(1.1);
 }
