@@ -13,6 +13,7 @@ body{
 
 .header__title{
     display: flex;
+    font-family: 'Times New Roman', Times, serif;
     position: relative;
     justify-content: center;
     text-align: center;
