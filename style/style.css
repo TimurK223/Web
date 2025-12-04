@@ -63,6 +63,7 @@ body{
 .rules__text {
     display: inline-block;
     max-width: max-content;
+    background-color: bisque;
     margin-left: 1vw;
     outline: 2px solid black;
 }
