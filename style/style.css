@@ -65,7 +65,7 @@ body{
     max-width: max-content;
     background-color: bisque;
     margin-left: 1vw;
-    outline: 2px solid black;
+    outline: 2px solid blue;
 }
 
 .rules__list-point {
