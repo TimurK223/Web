@@ -51,7 +51,7 @@ body{
 .rules__list {
     display: flex;
     flex-direction: column;
-    padding-left: 6vw;
+    padding-left: 5vw;
 }
 
 .rules__list-item {
