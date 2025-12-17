@@ -57,7 +57,7 @@ body{
 .rules__list-item {
     display: flex;
     flex-direction: column;
-    row-gap: 20px;
+    row-gap: 22px;
 }
 
 .rules__text {
